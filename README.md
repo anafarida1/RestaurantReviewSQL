@@ -1,3 +1,6 @@
+“This project is adapted from Azure-Samples/msdocs-flask-postgresql-sample-app (https://github.com/pamelafox/msdocs-flask-postgresql-sample-app-azd)
+, customized by anafarida1.”
+
 ---
 page_type: sample
 languages:
